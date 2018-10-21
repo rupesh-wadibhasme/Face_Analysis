@@ -2,15 +2,15 @@
 
 This Project Aims to develop face analytics models (CNN based models). Current project has models to estimate following information.
 
-Ethinicity - Detects ethinicity from face with four classes as  [ Asian, Indian, Black, White]
-Gender- Detects human gender [Man , Woman]
-Emotion - Detects seven different facial emotions such as ['angry', 'disgust', 'fear', 'happy', 'sad','surprise', 'neutral'] 
+1. Ethinicity - Detects ethinicity from face with four classes as  [ Asian, Indian, Black, White]
+2. Gender- Detects human gender [Man , Woman]
+3. Emotion - Detects seven different facial emotions such as ['angry', 'disgust', 'fear', 'happy', 'sad','surprise', 'neutral'] 
 
 ## Quick Run
 
 To test the output on new image siply run
 
-"python Api.py TEST_IMAGE_PATH PATH_TO_SAVE_OUTPUT"
+"python Api.py TEST_IMAGE_PATH   PATH_TO_SAVE_OUTPUT"
 
 Api saves the the image at PATH_TO_SAVE_OUTPUT with bounding box drawn around the detected face with detected Ethinicity, Gender and Emotion 
 
