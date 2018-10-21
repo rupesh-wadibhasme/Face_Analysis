@@ -17,7 +17,7 @@ Api saves the the image at PATH_TO_SAVE_OUTPUT with bounding box drawn around th
 
 ### Installing
 
-Simply clone the Repo. 
+Simply clone the Repo. Project is built with python 2.7 and NOT tested with python 3
 
 
 ### Output 
