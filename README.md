@@ -7,8 +7,9 @@ This Project Aims to develop face analytics models (CNN based models). Current p
 3. Emotion - Detects seven different facial emotions such as ['angry', 'disgust', 'fear', 'happy', 'sad','surprise', 'neutral'] 
 
 ## Quick Run
-
-To test the output on new image siply run
+1. Download the race detection weights from https://drive.google.com/open?id=1KI_ih8li_zmK8GyaEizKmJT2k3EeQ6TH and place in 
+   "trained_models" folder ("Fweights" and "Mweights")
+2. To test the output on new image siply run -
 
 "python Api.py test_image_path   PATH_TO_SAVE_OUTPUT"
 
