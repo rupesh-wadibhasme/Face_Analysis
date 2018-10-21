@@ -10,7 +10,7 @@ This Project Aims to develop face analytics models (CNN based models). Current p
 
 To test the output on new image siply run
 
-"python Api.py TEST_IMAGE_PATH   PATH_TO_SAVE_OUTPUT"
+"python Api.py test_image_path   PATH_TO_SAVE_OUTPUT"
 
 Api saves the the image at PATH_TO_SAVE_OUTPUT with bounding box drawn around the detected face with detected Ethinicity, Gender and Emotion 
 
@@ -36,7 +36,8 @@ Contact developer for training scripts.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+-- Version 1.0 (Beta)
+ 
 
 ## Authors
 
