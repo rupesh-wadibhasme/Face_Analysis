@@ -42,7 +42,8 @@ Contact developer for training scripts.
 
 ## Authors
 
-* **Rupesh Wadibhasme** - 
+* **Rupesh Wadibhasme**
+* **Amit Nandi** (co-author)
 
 
 
