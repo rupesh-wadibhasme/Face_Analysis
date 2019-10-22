@@ -12,8 +12,8 @@ try:
 	for inpt,output in zip(inp_path,out_path):
 		race_emotion(inpt,output)
 except:
-	print 'Incorrect Input '
-	print 'check for valid input path !!! Allowed extentions are jpg, png, jpeg'
+	print ('Incorrect Input ')
+	print ('check for valid input path !!! Allowed extentions are jpg, png, jpeg')
 	
 
 
